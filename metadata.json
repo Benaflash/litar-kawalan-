@@ -1,0 +1,6 @@
+{
+  "name": "SOP Pendawaian DOL Motor",
+  "description": "SOP Pendawaian, Visual Terminal LS Electric Metasol, dan Simulasi Interaktif Pemula Motor Direct-On-Line (DOL) mengikut piawaian MS IEC 60204-1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
